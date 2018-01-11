@@ -9,7 +9,7 @@ function {{name}} ({
     title,
 }) {
     return (
-        <Title>{{title}}</Title>
+        <Title>{title}</Title>
     );
 }
 
