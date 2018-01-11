@@ -6,8 +6,6 @@ A command line component generator with a React, Jest, Styled-components templat
 
 - clone the project
 - `git clone https://github.com/andre-araujo/react-create-component.git`
-- install all dependencies
-- `npm install`
 - navigate to project folder
 - `cd /react-create-component`
 - use npm link
