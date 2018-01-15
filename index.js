@@ -44,7 +44,7 @@ Path ${componentFolder} not found at ${cwd}
         const fileName = templateFile.replace(/{{name}}/g, componentName);
 
         const file = fs.readFileSync(`${templateDir}/${templateFile}`, 'utf8');
-        const fileWithComponentName = file.replace(/{{name}}/g, componentName+1);
+        const fileWithComponentName = file.replace(/{{name}}/g, componentName);
 
         fs.writeFileSync(`${dir}/${componentName}/${fileName}`, fileWithComponentName)
     })

@@ -1,10 +1,20 @@
 {
   "name": "react-create-component",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Create react components based on templates",
   "main": "index.js",
   "bin": "./bin/index.js",
   "license": "MIT",
+  "keywords": [
+    "react",
+    "reactjs",
+    "scaffold",
+    "generator",
+    "styled",
+    "components",
+    "jest",
+    "storybook"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/andre-araujo/react-create-component"
