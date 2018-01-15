@@ -12,7 +12,7 @@ A command line component generator with a React, Jest, Styled-components and sto
 ### Installing globally with npm-link
 
 - clone the project
-- `git clone https://github.com/andre-araujo/react-create--component.git`
+- `git clone https://github.com/andre-araujo/react-create-component.git`
 - navigate to project folder
 - `cd /react-create-component`
 - use npm link
